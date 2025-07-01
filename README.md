@@ -1,6 +1,6 @@
 # Hydrogen Wettability Prediction
 
-Long-term underground hydrogen storage is influenced by several interrelated factors, including rock and rock wettability, capillary entry pressure, sealing performance, chemical interactions between hydrogen and formation fluids or minerals, and potential microbial activity. Among these, wettability has been a key focus due to its strong effect on capillary trapping behavior and its role in maintaining storage integrity.
+Long-term underground hydrogen storage is influenced by several interrelated factors, including rock wettability, capillary entry pressure, sealing performance, chemical interactions between hydrogen and formation fluids or minerals, and potential microbial activity. Among these, wettability has been a key focus due to its strong effect on capillary trapping behavior and its role in maintaining storage integrity.
 
 
 # 1. Purpose of This Study
