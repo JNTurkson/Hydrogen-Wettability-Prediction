@@ -94,7 +94,10 @@ Planned enhancements include:
 
 ## Citation
 
-Please cite the associated publication as (To Be Added Later).
+Please cite the associated publication as:
+
+**Turkson, J. N.**, **Md Yusof, M. A.**, Darkwah-Owusu, V., Sokama-Neuyam, Y. A., Fjelde, I., Alakbari, F. S., & Tackie-Otoo, B. N. (2024). *An interpretable machine-learning-driven tool (HyWEC) for hydrogen wettability estimation: Implications for underground hydrogen storage*. **International Journal of Hydrogen Energy**. [https://doi.org/10.1016/j.ijhydene.2025.150256](https://doi.org/10.1016/j.ijhydene.2025.150256).
+
 ---
 
 ## References
